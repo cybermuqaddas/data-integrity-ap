@@ -1,0 +1,22 @@
+# Data Integrity App by Muqaddas
+
+🎯 Bu Python GUI dastur fayllarning butunligini SHA-256 orqali tekshiradi, zaxira nusxa yaratadi va farqlarni ko‘rsatadi.
+
+## 💡 Asosiy imkoniyatlari:
+- SHA-256 hashlash orqali faylni tekshirish
+- Zaxira nusxa yaratish (backup)
+- Faylda o‘zgarish bo‘lsa, qaysi satr o‘zgarganini ko‘rsatish
+- GUI interfeys (Tkinter orqali)
+
+## 📦 Talab qilinadigan kutubxonalar:
+- tkinter
+- hashlib
+- difflib
+- shutil
+- pycryptodome
+
+## ▶️ Ishga tushirish:
+1. `requirements.txt` dagi kutubxonalarni o‘rnating:
+2. `main.py` faylni ishga tushiring:
+## 👩‍💻 Muallif:
+Muqaddas – Kiberxavfsizlik va kriminalistika yo‘nalishiga qiziquvchi dasturchi
